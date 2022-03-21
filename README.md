@@ -1,10 +1,9 @@
 ## Gurlal Singh Sidhu
 
 ### DevOps Skills: 
-- Automation, CI/CD - AWS CodePipeline, Jenkins, AWS Lambda
+- Automation, CI/CD - AWS CodePipeline, AWS Lambda
 - IaC - Terraform and AWS CFN
-- Configuration Management - Ansible
-- Containerization - Docker,Kubernetes | ECS, ECR & EKS
+- Configuration Management - Ansible, Chef
 - AWS SDK for Python 
 - AWS CLI and Bash Scripting
 
